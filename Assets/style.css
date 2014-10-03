@@ -3,16 +3,19 @@ body{
 	background-image:
     url(https://raw.githubusercontent.com/michaelmartinezcampos/GA-Web-Design-Class/master/Assets/background.jpg);
     }
+img{
+	background-repeat: repeat-x; 
+}
 
 h1{
 	font-weight: bold;
 	margin-left: 5 %;
 	line-height: 1.5;
-    color: white;
+    font-color:white;
 }
 
 h2{margin-left: 5 %;
-   color: white;}
+   font-color:white;}
 
 
 hr{ float: left;
