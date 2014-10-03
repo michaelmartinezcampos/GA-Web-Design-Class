@@ -1,1 +1,26 @@
-style.css
+body{
+	background-color: #52596b;
+	background-image:
+    url(/Assets/background.jpg);
+    }
+
+h1{
+	font-weight: bold;
+	margin-left: 5 %;
+	line-height: 1.5;
+    color: white;
+}
+
+h2{margin-left: 5 %;
+   color: white;}
+
+
+hr{ float: left;
+	width: 5 %;
+	color: #905d67; }
+
+a{
+	text-decoration: none;
+ } 
+
+
